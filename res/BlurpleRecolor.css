@@ -375,26 +375,26 @@
 	background: url(https://discord.com/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) center 35px no-repeat;
 }
 .channelNotice-tO6Tus.premiumGuildSubscription-3oKecP {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_premium_bg.svg) center 23px no-repeat;
+	background: url(	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/channelnotice_premium_bg.svg) center 23px no-repeat;) center 23px no-repeat;
 }
 .channelNotice-tO6Tus.premiumGuildSubscription-3oKecP::before {
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_premium_accent.svg) center 23px no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/channelnotice_premium_accent.svg) center 23px no-repeat;
 }
 .channelNotice-tO6Tus.premiumGuildSubscription-3oKecP::after {
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_premium_accent2.svg) center 23px no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/channelnotice_premium_accent2.svg) center 23px no-repeat;
 }
 .channelNotice-tO6Tus.publicUpsell-31ZSJ8::before {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_upsell_bg.svg) center 12px no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/channelnotice_upsell_bg.svg) center 12px no-repeat;
 }
 .channelNotice-tO6Tus.publicUpsell-31ZSJ8::after {
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_upsell_accent.svg) center 12px no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/channelnotice_upsell_accent.svg) center 12px no-repeat;
 }
 .art-114q3M {
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_upsell_details.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/channelnotice_upsell_details.svg) center/cover no-repeat;
 }
 .art-114q3M::before,
 .art-114q3M::after {
@@ -407,11 +407,11 @@
 	pointer-events: none;
 }
 .art-114q3M::before {
-	background: url(https://ekvandayk.github.io/res/channelnotice_upsell_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/channelnotice_upsell_bg.svg) center/cover no-repeat;
 }
 .art-114q3M::after {
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_upsell_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/channelnotice_upsell_accent.svg) center/cover no-repeat;
 }
 
 /* ~~~~		3.		CHAT							~~~~ */
@@ -551,7 +551,7 @@
 															/* textarea				follow channel icon					*/
 .image-3FliiM[src="/assets/60ea1d16163c13845ccf31e70fd6528b.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_followchannel_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/chatnotice_followchannel_bg.svg) center/contain no-repeat;
 	width: 47px;
 	height: 60px;
 	margin-bottom: -8px;
