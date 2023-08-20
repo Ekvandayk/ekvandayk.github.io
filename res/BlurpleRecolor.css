@@ -407,7 +407,7 @@
 	pointer-events: none;
 }
 .art-114q3M::before {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/channelnotice_upsell_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/channelnotice_upsell_bg.svg) center/cover no-repeat;
 }
 .art-114q3M::after {
 	background: rgb(var(--accentcolor));
