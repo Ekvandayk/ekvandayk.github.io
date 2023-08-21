@@ -568,12 +568,12 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_followchannel_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/chatnotice_followchannel_accent.svg) center/contain no-repeat;
 }
 															/* textarea				verify email icon					*/
 .image-3FliiM[src="/assets/0e33fc3f60b69ba9b0247df60d589439.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
 	width: 65px;
 	height: 60px;
 	margin-bottom: -16px;
@@ -590,12 +590,12 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
 }
 															/* textarea				verify phone icon					*/
 .image-3FliiM[src="/assets/45372ebbfad1c491747d6f5b7117fd88.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
 	width: 65px;
 	height: 60px;
 	margin-bottom: -16px;
@@ -612,7 +612,7 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
 }
 
 															/* textarea				wave hand icon						*/
@@ -708,7 +708,7 @@
 	height: 160px;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/searchpage_noresults_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/searchpage_noresults_accent.svg) center/cover no-repeat;
 }
 
 /* ----		3.6.	CALL							---- */
@@ -874,7 +874,7 @@
 .confirmPremiumIcon-2e3THu,									/* store				confirmpremiumicon					*/
 .gameIcon-1mDo1J[style*="/assets/f6cbcdc9366fb8d31e03bdc6c9c50246.svg"] {
 	background-color: rgb(255, 255, 255) !important;
-	background-image: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.5)) !important;
+	background-image: url(https://ekvandayk.github.io/res/Blurple/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.5)) !important;
 }
 .pageWrapper-Nsjifk {										/* store				pagewrapper							*/
 	background: #fff linear-gradient(114deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.6));
@@ -1001,7 +1001,7 @@ html .offerBadge-1KDtMz {									/* settingsitems		offer badge							*/
 
 .marketingLogoImage-3evgX7 {								/* boostsettings		boost header						*/
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostheader_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostheader_bg.svg) center/cover no-repeat;
 }
 .marketingLogoImage-3evgX7::before,
 .marketingLogoImage-3evgX7::after {
@@ -1015,11 +1015,11 @@ html .offerBadge-1KDtMz {									/* settingsitems		offer badge							*/
 }
 .marketingLogoImage-3evgX7::before {
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostheader_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostheader_accent.svg) center/cover no-repeat;
 }
 .marketingLogoImage-3evgX7::after {
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostheader_accent2.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostheader_accent2.svg) center/cover no-repeat;
 }
 .tierUnlocked-ziudxO {										/* boostsettings		tierunlocked						*/
 	background: #ffcd4b linear-gradient(90deg, rgb(var(--accentcolor2)), rgba(var(--accentcolor2), 0.5));
@@ -1057,7 +1057,7 @@ html .offerBadge-1KDtMz {									/* settingsitems		offer badge							*/
 }
 .profileBadgeIcon-1Vgwr1 {									/* boostsettings		perkicon badge						*/
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/usersettings_boostbadge_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/usersettings_boostbadge_bg.svg) center/contain no-repeat;
 }
 .profileBadgeIcon-1Vgwr1::after {
 	content: "";
@@ -1068,7 +1068,7 @@ html .offerBadge-1KDtMz {									/* settingsitems		offer badge							*/
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/usersettings_boostbadge_accent2.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/usersettings_boostbadge_accent2.svg) center/contain no-repeat;
 }
 .guildBoostingIcon-2B5iYK {									/* boostsettings		guild boost icon					*/
 	color: rgb(var(--accentcolor2));
@@ -1105,7 +1105,7 @@ html .offerBadge-1KDtMz {									/* settingsitems		offer badge							*/
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/empty.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/empty.svg) center/cover no-repeat;
 }
 .perkNewsletter-3f0-gG {
 	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/usersettings_hypeperk1_bg.svg) center/cover no-repeat;
