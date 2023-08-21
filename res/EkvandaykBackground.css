@@ -2441,7 +2441,7 @@ body::after {
 .bd-social-link[title="BBD" i] .bd-social-logo,
 .bd-social-link[title="BandagedBD" i] .bd-social-logo {
 	background: var(--interactive-normal);
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/settingsicons/betterdiscord.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/betterdiscord.svg) center/contain no-repeat;
 	opacity: 1;
 	transition: background .15s ease;
 }
@@ -2707,7 +2707,7 @@ body::after {
 }
 
 .container-3NTP7o {											/* voicesettings		voicebarcontainer					*/
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/voice_level_bar.svg);
+	-webkit-mask: url(https://ekvandayk.github.io/res/voice_level_bar.svg);
 }
 .notches-2w7UZJ {
 	background: transparent !important;
@@ -3220,7 +3220,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	bottom: 0;
 	left: 0;
 	background-color: rgba(var(--transparencycolor), .5);
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/discord_window_placeholder.svg) 0 0/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/discord_window_placeholder.svg) 0 0/cover no-repeat;
 }
 #app-mount .exampleModal-1lRfuE,							/* communitysettings	rules		examplemodal			*/
 #app-mount .exampleModal-2X2Vf8 {							/* communitysettings	welcome		examplemodal			*/
@@ -6815,14 +6815,14 @@ html .bd-toast.toast-warn.icon::before {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-tab-item:hover {
