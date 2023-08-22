@@ -1885,11 +1885,11 @@ a.metadataDownload-3IY84h {
 	pointer-events: none;
 }
 .wrapper-3Zq_cJ::before {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostangel_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostangel_bg.svg) center/cover no-repeat;
 }
 .wrapper-3Zq_cJ::after {
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostangel_accent2.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostangel_accent2.svg) center/cover no-repeat;
 }
 #app-mount .wrapper-3Zq_cJ .lookInverted-2GrLaB.colorBrand-2M3O3N {
 	color: rgb(var(--accentcolor)) !important;
@@ -1916,7 +1916,7 @@ a.metadataDownload-3IY84h {
 
 #app-mount .confirmImage-2pGr87 {							/* add boost modal		add confirm							*/
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/addboost_header_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/addboost_header_bg.svg) center/contain no-repeat;
 }
 .confirmImage-2pGr87::after {
 	content: "";
@@ -1927,11 +1927,11 @@ a.metadataDownload-3IY84h {
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/addboost_header_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/addboost_header_accent.svg) center/contain no-repeat;
 }
 #app-mount .transferConfirmImage-1SYwXp {					/* add boost modal		transfer confirm					*/
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/transferboost_header_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/transferboost_header_bg.svg) center/contain no-repeat;
 }
 .transferConfirmImage-1SYwXp::after {
 	content: "";
@@ -1942,7 +1942,7 @@ a.metadataDownload-3IY84h {
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/transferboost_header_accent2.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/transferboost_header_accent2.svg) center/contain no-repeat;
 }
 
 /* ----		10.10.	STREAMSETTINGSMODAL				---- */
@@ -1990,7 +1990,7 @@ a.metadataDownload-3IY84h {
 
 #app-mount .art-1TvEXv {															/* settings modal */
 	position: relative;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/screenshare_header_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/screenshare_header_bg.svg) center/contain no-repeat;
 }
 .art-1TvEXv::after {
 	content: "";
@@ -2001,7 +2001,7 @@ a.metadataDownload-3IY84h {
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/screenshare_header_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/screenshare_header_accent.svg) center/contain no-repeat;
 }
 
 #app-mount .art-11ppxi[src="/assets/3f8ff16e485080df4e54267370420785.png"] + * {	/* unlock modal */
