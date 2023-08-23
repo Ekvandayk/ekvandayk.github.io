@@ -2042,7 +2042,7 @@ a.metadataDownload-3IY84h {
 /* ----		10.15.	CUSTOMSTATUSMODAL				---- */
 
 .art-2Y6Pk3 {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/customstatus_header_bg.svg) center/contain no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/customstatus_header_bg.svg) center/contain no-repeat;
 }
 .art-2Y6Pk3::after {
 	content: "";
@@ -2053,7 +2053,7 @@ a.metadataDownload-3IY84h {
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/customstatus_header_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/customstatus_header_accent.svg) center/contain no-repeat;
 }
 
 /* ----		10.16.	DISCOVERYENTRYMODAL				---- */
@@ -2068,7 +2068,7 @@ a.metadataDownload-3IY84h {
 .image-2Qw4tp[src="/assets/7f62c4c1f689de046a6ad83020c897ad.svg"],
 .footerImage-1wk000[src="/assets/7f62c4c1f689de046a6ad83020c897ad.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/discovery_house.svg) center/contain no-repeat !important;
+	background: url(https://ekvandayk.github.io/res/Blurple/discovery_house.svg) center/contain no-repeat !important;
 }
 
 /* ----		10.17.	NICKNAMEMODAL					---- */
@@ -2103,11 +2103,11 @@ a.metadataDownload-3IY84h {
 	pointer-events: none;
 }
 .heroImage-1BTx4r[src="/assets/d1dab93347ab65e2b31d9dc39c9c5a9a.svg"] + *::before {
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostangel_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostangel_bg.svg) center/cover no-repeat;
 }
 .heroImage-1BTx4r[src="/assets/d1dab93347ab65e2b31d9dc39c9c5a9a.svg"] + *::after {
 	background: rgb(var(--accentcolor2));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostangel_accent2.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/guildsettings_boostangel_accent2.svg) center/cover no-repeat;
 }
 .perkIcon-2DG0tJ path[fill*="hsl(305, "] {
 	fill: rgb(var(--accentcolor2));
@@ -2612,35 +2612,35 @@ input.input-3O04eu {										/* textinput												*/
 [style*="/assets/18126c8a9aafeefa76bbb770759203a9.png"],
 [src*="/assets/18126c8a9aafeefa76bbb770759203a9.png"] {		/* avatars				clyde								*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--accentcolor)) url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/clydeicon_details.svg) center/contain no-repeat !important;
+	background: rgb(var(--accentcolor)) url(https://ekvandayk.github.io/res/Blurple/clydeicon_details.svg) center/contain no-repeat !important;
 }
 [style*="https://cdn.discordapp.com/embed/avatars/0.png"],
 [src*="https://cdn.discordapp.com/embed/avatars/0.png"],
 [style*="/assets/1f0bfc0865d324c2587920a7d80c609b.png"],
 [src*="/assets/1f0bfc0865d324c2587920a7d80c609b.png"] {		/* avatars				blue discord						*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--accentcolor)) url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/discordavatar_details.svg) center/contain no-repeat !important;
+	background: rgb(var(--accentcolor)) url(https://ekvandayk.github.io/res/Blurple/discordavatar_details.svg) center/contain no-repeat !important;
 }
 [style*="/assets/3a55d3972a7d68bcb306af32ab1b226a.svg"],
 [src*="/assets/3a55d3972a7d68bcb306af32ab1b226a.svg"] {		/* avatars				rolesettings intro avatar			*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--accentcolor)) url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/rolebanner_clubs_avatar.svg) center/contain no-repeat !important;
+	background: rgb(var(--accentcolor)) url(https://ekvandayk.github.io/res/Blurple/rolebanner_clubs_avatar.svg) center/contain no-repeat !important;
 }
 [style*="/assets/f17da3efc8cf47226d362fee2f5f7197.svg"],
 [src*="/assets/f17da3efc8cf47226d362fee2f5f7197.svg"] {		/* avatars				rolesettings intro avatar			*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--accentcolor)) url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/rolebanner_gaming_avatar.svg) center/contain no-repeat !important;
+	background: rgb(var(--accentcolor)) url(https://ekvandayk.github.io/res/Blurple/rolebanner_gaming_avatar.svg) center/contain no-repeat !important;
 }
 [style*="/assets/642982d3d82323a8fb69860f116ebca7.svg"],
 [src*="/assets/642982d3d82323a8fb69860f116ebca7.svg"] {		/* avatars				rolesettings intro avatar			*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--accentcolor)) url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/rolebanner_hobbies_avatar.svg) center/contain no-repeat !important;
+	background: rgb(var(--accentcolor)) url(https://ekvandayk.github.io/res/Blurple/rolebanner_hobbies_avatar.svg) center/contain no-repeat !important;
 }
 
 															/* warnings				locked channel message jump			*/
 .image-1L5vsB[src="/assets/755d4654e19c105c3cd108610b78d01c.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/warning_lockedchannellink_bg.svg) center/cover no-repeat;
+	background: url(https://ekvandayk.github.io/res/Blurple/warning_lockedchannellink_bg.svg) center/cover no-repeat;
 }
 .image-1L5vsB[src="/assets/755d4654e19c105c3cd108610b78d01c.svg"] + * {
 	position: relative;
@@ -2655,7 +2655,7 @@ input.input-3O04eu {										/* textinput												*/
 	height: 90px;
 	pointer-events: none;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/warning_lockedchannellink_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://ekvandayk.github.io/res/Blurple/warning_lockedchannellink_accent.svg) center/cover no-repeat;
 }
 
 /* ----		12.6.	SCROLLBARS						---- */
