@@ -21,7 +21,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://ekvandayk.github.io/Discord_Themes/BasicBackground/_res/3.jpg);
+	--background:				url(https://ekvandayk.github.io/Discord_Themes/EkvandaykBackground/_res/3.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
@@ -7245,7 +7245,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	position: relative !important;
 }
 html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e4.layers__160d8 > div.layer__960e4.baseLayer__960e4 + div.layer__960e4 > div.standardSidebarView__23e6b > div.sidebarRegion__23e6b > div.sidebarRegionScroller__23e6b.thin__99f8c.scrollerBase__99f8c.fade__99f8c > nav.sidebar__23e6b > div.side_b3f026 > div.info__2debe::after {
-	content: "BasicBackground by" !important;
+	content: "EkvandaykBackground by" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
