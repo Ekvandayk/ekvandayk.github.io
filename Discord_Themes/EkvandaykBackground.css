@@ -1,5 +1,4 @@
 @import url(https://ekvandayk.github.io/Discord_Themes/_res/SettingsIcons.css);
-@import url(https://ekvandayk.github.io/Discord_Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--transparencycolor:			0, 0, 0;
@@ -7120,7 +7119,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_a3002d > div.app__160d8::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of EkvaBackgrounds is outdated. Please download the newest Version" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
@@ -7264,7 +7263,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	animation: unset !important;
 }
 html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e4.layers__160d8 > div.layer__960e4.baseLayer__960e4 + div.layer__960e4 > div.standardSidebarView__23e6b > div.sidebarRegion__23e6b > div.sidebarRegionScroller__23e6b.thin__99f8c.scrollerBase__99f8c.fade__99f8c > nav.sidebar__23e6b > div.side_b3f026 > div.info__2debe::before {
-	content: "DevilBro" !important;
+	content: "Ekvandayk" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
