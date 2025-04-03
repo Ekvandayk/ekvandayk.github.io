@@ -7372,7 +7372,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Данная версия Background устарела и скоро будет удалена. Если вы все еще ее используете, скачайте новую - ekvandayk.github.io/Discord_Themes/EkvandaykBackground.theme.css" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor), .3) !important;
