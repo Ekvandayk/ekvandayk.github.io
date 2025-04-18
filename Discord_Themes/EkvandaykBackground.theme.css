@@ -57,7 +57,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://ekvandayk.github.io/Discord_Themes/EkvandaykBackground/_res/5.jpg);	/* general background image					*/
+	--background:			linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://ekvandayk.github.io/Discord_Themes/Background/5.jpg);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
